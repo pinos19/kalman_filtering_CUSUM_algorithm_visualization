@@ -4,7 +4,7 @@ Application designed to vizualize the result of kalman filtering with adjustable
 
 You can multiselect the curves you want to filter.
 
-![alt next](https://github.com/pinos19/kalman_filtering_visualization/blob/main/images/MultiSelect.PNG)
+![alt next](https://github.com/pinos19/kalman_filtering_visualization/blob/main/images/MultiSelection.PNG)
 
 You can adjust in real time the parameters and visualize the result.
 
